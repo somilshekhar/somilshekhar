@@ -5,7 +5,7 @@ I'm a passionate and detail-oriented **Full Stack & Application Developer** with
 ## 🛠️ Tech Stack & Skills
 
 - **Languages:** JavaScript (ES6+), TypeScript, Python, Java, C++
-- **Frontend:** React.js, Next.js, Redux, HTML5, CSS3, Chakra UI, Tailwind CSS
+- **Frontend:** React.js, Next.js, Redux, HTML5, CSS3, UI/UX, Tailwind CSS, XML
 - **Backend:** Node.js, Express.js, MongoDB, MySQL, REST APIs
 - **App Development:** React Native, Android (Java/Kotlin)
 - **Dev Tools:** Git & GitHub, VS Code, Postman, Figma
@@ -14,7 +14,7 @@ I'm a passionate and detail-oriented **Full Stack & Application Developer** with
 ## 🚀 Top Projects
 
 - **[Portfolio Website](https://new-portfolio-five-red.vercel.app/):**  
-  My personal portfolio built with Next.js and Chakra UI, showcasing my projects, skills, and experience in a sleek, responsive design.
+  My personal portfolio built with React.js and Typescript , showcasing my projects, skills, and experience in a sleek, responsive design.
 
 - **E-Commerce Platform:**  
   A full-featured e-commerce application with user authentication, product management, and payment integration, built using the MERN stack.
