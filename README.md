@@ -1,6 +1,5 @@
 # Hi there, I'm Somil Shekhar 👋
-
-I'm a passionate and detail-oriented **Full Stack & Application Developer** with a strong foundation in computer science and hands-on experience building scalable web and mobile applications. I enjoy creating seamless user experiences and solving complex problems with clean, efficient code.
+I'm a passionate and detail-oriented **Full Stack & Application Developer** with a solid foundation in computer science and hands-on experience building **scalable web, mobile, and AI/ML-integrated applications**. I enjoy creating seamless user experiences, implementing intelligent solutions, and solving complex problems with clean, efficient code.
 
 ## 🛠️ Tech Stack & Skills
 
