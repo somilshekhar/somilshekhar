@@ -4,11 +4,14 @@ I'm a passionate and detail-oriented **Full Stack & Application Developer** with
 
 ## 🛠️ Tech Stack & Skills
 
-- **Languages:** JavaScript (ES6+), TypeScript, Python, Java, C++
-- **Frontend:** React.js, Next.js, Redux, HTML5, CSS3, UI/UX, Tailwind CSS, XML
-- **Backend:** Node.js, Express.js, MongoDB, MySQL, REST APIs
-- **App Development:** React Native, Android (Java/Kotlin)
-- **Dev Tools:** Git & GitHub, VS Code, Postman, Figma
+- **Languages:** JavaScript (ES6+), TypeScript, Python, Java, C++  
+- **Frontend:** React.js, Next.js, Redux, HTML5, CSS3, UI/UX, Tailwind CSS, XML  
+- **Backend:** Node.js, Express.js, MongoDB, MySQL, REST APIs, FastAPI  
+- **App Development:** React Native, Android (Java/Kotlin)  
+- **Database & Data Handling:** SQLite, SQLAlchemy, Data Ingestion, Feature Engineering  
+- **Machine Learning / AI:** Pre-trained ML Models, Anomaly Detection, Payment Failure Prediction  
+- **Automation & Tools:** Email Alerts (SMTP), Cron / Periodic Jobs, Virtual Environments, Environment Variables (.env)  
+- **Dev Tools:** Git & GitHub, VS Code, Postman, Figma  
 - **Other:** Data Structures & Algorithms, OOP, System Design
 
 ## 🚀 Top Projects
